@@ -25,7 +25,7 @@ using [coremltools](https://pypi.python.org/pypi/coremltools) python package.
 git clone https://github.com/cocoa-ai/StylesVisionDemo.git
 cd StylesVisionDemo
 pod install
-open StylesVisionDemo.xcworkspace/
+open Styles.xcworkspace/
 ```
 
 Download the [CoreMl model](https://drive.google.com/file/d/0B1ghKa_MYL6maFFWR3drLUFNQ1E/view?usp=sharing)
