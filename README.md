@@ -4,7 +4,7 @@ A Demo application using `Vision` and `CoreML` frameworks to detect the most
 likely style of the given image.
 
 <div align="center">
-<img src="https://github.com/cocoa-ml/StylesVisionDemo/blob/master/Screenshot.png" alt="StylesVisionDemo" width="300" height="534" />
+<img src="https://github.com/cocoa-ai/StylesVisionDemo/blob/master/Screenshot.png" alt="StylesVisionDemo" width="300" height="534" />
 </div>
 
 ## Model
@@ -22,14 +22,14 @@ using [coremltools](https://pypi.python.org/pypi/coremltools) python package.
 ## Installation
 
 ```sh
-git clone https://github.com/cocoa-ml/StylesVisionDemo.git
+git clone https://github.com/cocoa-ai/StylesVisionDemo.git
 cd StylesVisionDemo
 pod install
-open StylesVisionDemo.xcworkspace/
+open Styles.xcworkspace/
 ```
 
 Download the [CoreMl model](https://drive.google.com/file/d/0B1ghKa_MYL6maFFWR3drLUFNQ1E/view?usp=sharing)
-and drag the file into your project.
+and add the file to "Resources" folder in the project's directory.
 
 Build the project and run it on a simulator or a device with iOS 11.
 
