@@ -28,7 +28,7 @@ pod install
 open Styles.xcworkspace/
 ```
 
-Download the [CoreMl model](https://drive.google.com/file/d/0B1ghKa_MYL6maFFWR3drLUFNQ1E/view?usp=sharing)
+Download the [CoreMl model](https://drive.google.com/file/d/1aF-3p8zyrTzFE1tPpdBgLeWa0kanCN--/view?usp=sharing)
 and add the file to "Resources" folder in the project's directory.
 
 Build the project and run it on a simulator or a device with iOS 11.
